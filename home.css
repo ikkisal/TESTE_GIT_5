@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+
+#imagem {
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 100%;
+    border-radius: 2;
+    position: relative;
+
+}
+
+#butão {
+    color: brown;
+    text-align: center;
+    font-size: 60px;
+    background-color: aqua;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#butão button {
+
+    margin-top: 70px;
+    text-decoration: none;
+    box-shadow: none;
+    border: 0;
+}
