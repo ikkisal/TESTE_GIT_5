@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+.tigrona{
+    text-align: center;
+    padding-top: 100px;
+}
+.leao img{
+    padding-left: 500px;
+    padding-top: 150px;
+}
